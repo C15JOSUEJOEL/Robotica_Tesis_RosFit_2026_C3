@@ -1,0 +1,21 @@
+** Drc report for Modulo de control para Actuadores.kicad_pcb **
+** Created on 2026-11-15T18:46:10 **
+** Report includes: Errors, Warnings **
+
+** Found 1 DRC violations **
+[isolated_copper]: Isolated copper fill
+    Local override; warning
+    @(215.7500 mm, 73.4500 mm): Zone [<no net>] on B.Cu, priority 0
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
